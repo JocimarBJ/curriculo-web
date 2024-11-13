@@ -177,6 +177,7 @@ header{
 .ods{
     display: flex;
     text-align: center;
+    gap: 15px;
 }
 
 .ods figure{
